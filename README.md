@@ -1,41 +1,37 @@
-🚀 Task-1 Completed | Data Analyst Internship at Oasis Infobyte
+🔍 Completed Level-1(b)
+Task: Exploratory Data Analysis on Retail Sales Data
 
-I’m thrilled to share the successful completion of my first task as a Data Analytics Intern at Oasis Infobyte – a comprehensive Exploratory Data Analysis (EDA) project focused on Retail Sales Data 📊
+📌 Internship: Oasis Infobyte Virtual Internship
 
-🔍 Project Overview:
+🛠 Tools Used: Python, Pandas, Matplotlib, Seaborn, Google Colab
 
-This task involved performing detailed EDA to uncover nutritional insights from retail food data. The analysis helped to interpret various parameters such as:
+I recently completed an EDA (Exploratory Data Analysis) project on a retail sales dataset to extract meaningful insights from customer transactions and product performance.
 
-✅ Sum of Carbohydrates by food category
+🔎 What I Did:
 
-✅ Cholesterol levels in different items
+Performed data cleaning, formatting, and preprocessing
 
-✅ Average Macronutrients – Sodium, Sugar, Protein, Fat
+Analyzed monthly sales trends using line plots
 
-✅ Caloric Breakdown across categories
+Explored category-wise and gender-wise sales distribution
 
-✅ Vitamin A and C Daily Value contribution
+Visualized age distribution and customer behavior
 
-📈 Tools & Techniques Used:
+Created correlation heatmaps, bar charts, pie charts, and scatter plots
 
-🧠 Power BI for interactive dashboards
+Discovered relationships between quantity sold and total revenue
 
-📌 Statistical aggregations (mean, count, sum)
+📊 Key Insights:
 
-📊 Visualizations: bar charts, donut charts, line plots
+Identified top-performing product categories
 
-🎯 Key Takeaways:
+Highlighted sales contribution by gender and age group
 
-Strengthened my data visualization skills using Power BI
+Observed seasonal trends and spikes in customer purchases
 
-Gained hands-on experience in analyzing category-wise nutrition data
+Revealed strong correlations between sales and product quantity
 
-Understood how to extract actionable insights from raw datasets
+👉 This project gave me valuable hands-on experience in EDA, data visualization, and generating actionable business insights from raw data.
 
-Improved storytelling through dashboards
+📌 #EDA #RetailAnalysis #Python #GoogleColab #DataAnalytics #DataVisualization #OasisInfobyte #VirtualInternship #SalesInsights #Matplotlib #Seaborn #LinkedInProjects
 
-A huge thank you to OASIS INFOBYTE for this opportunity to work on real-time projects and build my analytical mindset! Looking forward to more such enriching tasks ahead.
-
-📸 Swipe through the visuals to explore my dashboard outcomes!
-
-#DataAnalytics #PowerBI #InternshipProject #EDA #ExploratoryDataAnalysis #RetailAnalytics #DashboardDesign #OasisInfobyte #InternshipJourney #DataVisualization #NutritionalAnalysis #BusinessIntelligence #DataDriven #TechInternship #DataInsights #MicrosoftPowerBI #LearningByDoing #RealWorldData #DataScienceInternship #AnalyticsDashboard #BTechStudent #DataStorytelling #CareerInAnalytics #VisualizationMatters
